@@ -12,7 +12,7 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `Ambituous Chicken`,
+      name: `Ambituous Chicken`, // papers 로 추가하기.
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
