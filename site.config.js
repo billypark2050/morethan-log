@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "b12_8k",
+    name: "박빌리",
     image: "/avatar.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
     role: "towel-dried_BP",
-    bio: "다시는 자연건조하지 않겠습니다.",
+    bio: "GIST",
     email: "billypark@gmail.com",
     linkedin: "",
     github: "billypark2050",
@@ -12,15 +12,15 @@ const CONFIG = {
   },
   projects: [
     {
-      name: `morethan-log`,
+      name: `Ambituous Chicken`,
       href: "https://github.com/morethanmin/morethan-log",
     },
   ],
   // blog setting (required)
   blog: {
-    title: "morethan-log",
-    description: "welcome to morethan-log!",
-    scheme: "dark", // 'light' | 'dark' | 'system'
+    title: "Ambituous Chicken",
+    description: "welcome to billy-log!",
+    scheme: "system", // 'light' | 'dark' | 'system'
   },
 
   // CONFIG configration (required)
