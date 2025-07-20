@@ -1,10 +1,10 @@
 const CONFIG = {
   // profile setting (required)
   profile: {
-    name: "박빌리",
+    name: "Billy Park",
     image: "/Notion-profile_BP_transparent.svg", // If you want to create your own notion avatar, check out https://notion-avatar.vercel.app
-    role: "towel-dried_BP",
-    bio: "GIST",
+    role: "PhD. Candidate",
+    bio: "Gwangju Institute of Science and Technology(GIST)\nHAM Lab.", 
     email: "billypark@gmail.com",
     linkedin: "",
     github: "billypark2050",
@@ -13,7 +13,7 @@ const CONFIG = {
   projects: [
     {
       name: `Ambituous Chicken`, // papers 로 추가하기.
-      href: "https://github.com/morethanmin/morethan-log",
+      href: "https://github.com/billypark2050/morethan-log",
     },
   ],
   // blog setting (required)
@@ -23,9 +23,9 @@ const CONFIG = {
     scheme: "system", // 'light' | 'dark' | 'system'
   },
 
-  // CONFIG configration (required)
+  // CONFIG configration (required) // 링크를 공유했을 때 뜨는 이미지라네
   link: "https://morethan-log.vercel.app",
-  since: 2022, // If leave this empty, current year will be used.
+  since: 2025, // If leave this empty, current year will be used.
   lang: "en-US", // ['en-US', 'zh-CN', 'zh-HK', 'zh-TW', 'ja-JP', 'es-ES', 'ko-KR']
   ogImageGenerateURL: "https://og-image-korean.vercel.app", // The link to generate OG image, don't end with a slash
 
